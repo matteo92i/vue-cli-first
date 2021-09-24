@@ -1,11 +1,11 @@
 <template>
-   
-        <h1>Ciao mondo</h1>
-  
+   <div>
+      <h1>Ciao a tutti</h1>
+   </div>
 </template>
-
 <script>
 export default {
+  
     
 }
 </script>
@@ -13,3 +13,7 @@ export default {
 <style>
 
 </style>
+
+  
+
+
